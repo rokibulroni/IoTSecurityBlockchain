@@ -1,0 +1,12 @@
+
+{
+  "name": "iot-security-blockchain",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "truffle": "^5.5.0",
+    "web3": "^1.7.0"
+  }
+}
